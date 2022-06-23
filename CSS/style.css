@@ -147,6 +147,10 @@ footer {
     background: url(../Imagens/fundo-rodape.png) no-repeat center top;
 }
 
+footer>p a {
+    padding: 2px 10px;
+}
+
 
 /* Formulario */
 
